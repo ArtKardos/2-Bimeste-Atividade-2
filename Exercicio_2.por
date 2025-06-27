@@ -40,7 +40,7 @@ programa {
         }
       }
     }
-
+    escreva("você seria mais novo em Netuno")
 
 
 
